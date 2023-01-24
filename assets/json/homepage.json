@@ -1,0 +1,22 @@
+[
+    {
+        "png"   : "assets/images/person.png",
+        "text"  : "قم بتسجيل الدخول"
+    },
+    {
+        "png"   : "assets/images/tasks.png",
+        "text"  : "قم ببعض المهام السهلة"
+    },
+    {
+        "png"   : "assets/images/coin.png",
+        "text"  : "اجمع النقاط"
+    },
+    {
+        "png"   : "assets/images/purchase.png",
+        "text"  : "تبادل النقاط بعملة في اللعبة"
+    },
+    {
+        "png"   : "assets/images/gamer.png",
+        "text"  : "استمتع"
+    }
+]
